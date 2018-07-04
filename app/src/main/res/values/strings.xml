@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PopularMoviesApp</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Key for movies -->
+
+    <string name="movie_key">movie_key</string>
+
+    <string name="movie_key_label">sort movies</string>
+
+    <!-- Label for the movie feed preference -->
+    <string name="pref_movie_sort_label">Sort Movies</string>
+
+    <string name="pref_movie_sort_popular">Popular Movies</string>
+
+    <string name="pref_movie_highest_rated">Highest Rated</string>
+
+    <string name="pref_movie_now_showing">Now Showing</string>
+
+
+    <!-- Key name for movie feed preference -->
+    <string name="pref_sort_movies_list" translatable="false">sort movies</string>
+
+    <string name="pref_movie_sort_popular_value" translatable="false">Popular Movies</string>
+
+    <string name="pref_movie_highest_rated_value" translatable="false">Highest Rated</string>
+
+    <string name="pref_movie_now_showing_value" translatable="false">Now Showing</string>
+
+</resources>
